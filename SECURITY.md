@@ -4,7 +4,7 @@ At Flashcard API, we take security seriously. If you discover any security issue
 
 - To report a vulnerability, please follow these steps:
 
-1. Privately Disclose: Please send an email to security@flashcardapi.com with details of the vulnerability. Do not disclose the issue publicly until it has been addressed by our team.
+1. Privately Disclose: Please send an email to sanchitsherawatk@gmail.com with details of the vulnerability. Do not disclose the issue publicly until it has been addressed by our team.
 
 2. Include Details: Provide as much information as possible about the vulnerability, including steps to reproduce, affected versions, and any mitigating factors.
 
