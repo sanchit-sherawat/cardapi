@@ -48,4 +48,4 @@ Welcome to the Flashcard API! This API provides endpoints to manage flashcards f
 # Contributing
 - Contributions are welcome! If you have any suggestions, bug fixes, or feature requests, please open an issue or submit a pull request.
 # License
-This project is licensed under the MIT License - see the [LICENSE(LICENSE)] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
